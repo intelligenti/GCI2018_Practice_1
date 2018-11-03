@@ -1,0 +1,7 @@
+for i in range(0, 10):
+  print("GCI is great")
+
+print("")
+name = input("What is your name: ")
+eman = name[::-1]
+print("Hello " + name + ", please to meet you! Did you know that your name backwards is " + eman + "?")
